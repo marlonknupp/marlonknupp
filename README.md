@@ -1,6 +1,6 @@
 - ⚡ Marlon Knupp
 - 💻 Apaixonado por tecnologia - Aprendendo dia após dia. 
-- 🤖 Desenvolvedor Back-End. 
+- 🤖 Programador Back-End
 
 <!---
 marlonknupp/marlonknupp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
