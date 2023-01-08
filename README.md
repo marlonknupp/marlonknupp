@@ -1,7 +1,7 @@
 **Bem Vindo ao meu GitHub!** ⚡
 - 👨‍💻 Análise e desenvolvimento de sistemas.  
 - 💻 Apaixonado por tecnologia - Aprendendo dia após dia. 
-- 🤖 Desenvolvedor Back-End
+- 🤖 Desenvolvedor Back-End jr
 
 <!---
 marlonknupp/marlonknupp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
