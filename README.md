@@ -1,4 +1,4 @@
-- ⚡ Atualmente Cursando Análise e Desenvolvimento de Sistemas 
+- ⚡   Análise e desenvolvimento de sistemas.  
 - 💻 Apaixonado por tecnologia - Aprendendo dia após dia. 
 - 🤖 Desenvolvedor Back-End
 
