@@ -3,7 +3,7 @@
 - 💻 Apaixonado por tecnologia - Aprendendo dia após dia.
 - 🤖 Desenvolvedor Back-End jr
 
-![Marlon knupp GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonknupp&show_icons=true&theme=merko)
+![Marlon knupp GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonknupp&show_icons=true&theme=tokyonight)
 
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonknupp/)
