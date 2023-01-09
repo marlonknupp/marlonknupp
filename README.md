@@ -4,9 +4,6 @@
 - 🤖 Desenvolvedor Back-End jr
 
 (![Marlon knupp GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonknupp&show_icons=true&theme=radical)
-
-
-<img align-center alt-marlon-python height-5 width-5 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
           
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonknupp/)
