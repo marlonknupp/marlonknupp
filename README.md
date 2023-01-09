@@ -5,7 +5,7 @@
 
 (![Marlon knupp GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonknupp&show_icons=true&theme=tokyonight)
           
-
+  <div align="center" valign="top"><br>
     <img align="center" alt='"Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
           
 
