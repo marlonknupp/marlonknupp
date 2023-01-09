@@ -1,4 +1,4 @@
-## Bem-vindo ao meu Git/Hub! ⚡
+## Bem-vindo ao meu Git/Hub! 
 - 👨‍💻 Análise e desenvolvimento de sistemas.  
 - 💻 Apaixonado por tecnologia - Aprendendo dia após dia.
 - 🤖 Desenvolvedor Back-End jr
