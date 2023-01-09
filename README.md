@@ -1,9 +1,2 @@
-**Bem Vindo ao meu GitHub!** ⚡
-- 👨‍💻 Análise e desenvolvimento de sistemas.  
-- 💻 Apaixonado por tecnologia - Aprendendo dia após dia. 
-- 🤖 Desenvolvedor Back-End jr
-
-<!---
-marlonknupp/marlonknupp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem-Vindo ao meu GitHub!⚡
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](httpps://https://instagram.com/marlonknupp)
