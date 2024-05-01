@@ -1,7 +1,7 @@
 ## Bem Vindo ao meu GitHub! 
 - 👨‍💻 Análise e desenvolvimento de sistemas.  
 - 💻 Apaixonado por tecnologia - Aprendendo dia após dia.
-- 🤖 Desenvolvedor Back-End jr
+- 🤖 Programador Back-End 
 
 <div>
 
