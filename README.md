@@ -5,6 +5,7 @@
 
 <div>
  <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marlonknupp&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonknupp&layout=compact&theme=dark)
    </div> <br>
 
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><img align="center" height="30" width="40" alt="html-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
